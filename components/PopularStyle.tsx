@@ -14,7 +14,7 @@ const BestProducts = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch("/data/products.json"); // Replace with your actual API URL
+        const response = await fetch("https://678fdca949875e5a1a93a516.mockapi.io/Product"); // Replace with your actual API URL
         const data = await response.json();
 
         // Filter products with IDs between 8 and 12

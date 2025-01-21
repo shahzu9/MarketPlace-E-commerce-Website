@@ -16,7 +16,7 @@ const TopCategory = () => {
   useEffect(() => {
     const fetchCategories = async () => {
       try {
-        const response = await fetch("/data/products.json"); // Replace with your actual API URL
+        const response = await fetch("https://678fdca949875e5a1a93a516.mockapi.io/Product"); // Replace with your actual API URL
         const data = await response.json();
 
         // Filter categories with IDs between 5 and 7

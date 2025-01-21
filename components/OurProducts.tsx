@@ -22,7 +22,7 @@ const FeaturedProduct = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch("/data/products.json"); // Replace with your actual API URL
+        const response = await fetch("https://678fdca949875e5a1a93a516.mockapi.io/Product"); // Replace with your actual API URL
         if (!response.ok) {
           throw new Error("Failed to fetch products");
         }
