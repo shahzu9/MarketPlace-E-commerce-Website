@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "name": "Alexy Chair",
+      "color": "White",
+      "price": 50,
+      "image": "/products/image-1.png",
+      "description": "A sleek outdoor chair with natural wooden elements and a modern look."
+    },
+    {
+      "id": 2,
+      "name": "Jack Mason Chair",
+      "color": "Pink",
+      "price": 100,
+      "image": "/products/image-2.png",
+      "description": "An elegant armchair with plush cushions and a curved design for comfort."
+    },
+    {
+      "id": 3,
+      "name": "Soft Chair",
+      "color": "Orange",
+      "price": 50,
+      "image": "/products/image-3.png",
+      "description": "A sleek outdoor chair with natural wooden elements and a modern look."
+    },
+    {
+      "id": 4,
+      "name": "Fancy Accent Chair",
+      "color": "White",
+      "price": 200,
+      "image": "/products/image-4.png",
+      "description": "A luxurious shell-shaped chair with gold brass metal legs."
+    },
+    {
+      "id": 5,
+      "name": "Maxyme Chair",
+      "color": "Brown",
+      "price": 60,
+      "image": "/products/image-5.png",
+      "description": "Compact armchair with a cozy design for small spaces."
+    },
+    {
+      "id": 6,
+      "name": "Table Stool",
+      "color": "Brown",
+      "price": 40,
+      "image": "/products/image-6.png",
+      "description": "Durable and lightweight wooden chair for everyday use."
+    },
+    {
+      "id": 7,
+      "name": "Stylish Dyson Chair",
+      "color": "black",
+      "price": 70,
+      "image": "/products/image-7.png",
+      "description": "Iconic four-legged chair with faux leather and ash plywood frame."
+    },
+    {
+      "id": 8,
+      "name": "Soft Chair",
+      "color": "oramge",
+      "price": 70,
+      "image": "/products/image-8.png",
+      "description": "A sleek outdoor chair with natural wooden elements and a modern look."
+    },
+    {
+      "id": 9,
+      "name": "Alexy Chair",
+      "color": "White",
+      "price": 50,
+      "image": "/products/image-1.png",
+      "description": "A sleek outdoor chair with natural wooden elements and a modern look."
+    },
+    {
+      "id": 10,
+      "name": "Fancy Accent Chair",
+      "color": "White",
+      "price": 200,
+      "image": "/products/image-4.png",
+      "description": "A luxurious shell-shaped chair with gold brass metal legs."
+    },
+    {
+      "id": 11,
+      "name": "Maxyme Chair",
+      "color": "Gray",
+      "price": 70,
+      "image": "/products/image-11.png",
+      "description": "A comfortable set of chairs with soft cushions for relaxation."
+    },
+    {
+      "id": 12,
+      "name": "Table Stool",
+      "color": "Brown",
+      "price": 40,
+      "image": "/products/image-6.png",
+      "description": "Durable and lightweight wooden chair for everyday use."
+    },
+    {
+      "id": 13,
+      "name": "Cantilever Chair",
+      "color": "Black",
+      "price": 70,
+      "image": "/products/image-13.png",
+      "description": "A sleek and modern chair with a minimalist design."
+    },
+    {
+      "id": 14,
+      "name": "Jack Mason Chair",
+      "color": "Pink",
+      "price": 100,
+      "image": "/products/image-2.png",
+      "description": "An elegant armchair with plush cushions and a curved design for comfort."
+    },
+    {
+      "id": 15,
+      "name": "Maxyme Chair",
+      "color": "Brown",
+      "price": 60,
+      "image": "/products/image-5.png",
+      "description": "Compact armchair with a cozy design for small spaces."
+    },
+    {
+      "id": 16,
+      "name": "Stylish Dyson Chair",
+      "color": "black",
+      "price": 70,
+      "image": "/products/image-7.png",
+      "description": "Iconic four-legged chair with faux leather and ash plywood frame."
+    }
+  ]

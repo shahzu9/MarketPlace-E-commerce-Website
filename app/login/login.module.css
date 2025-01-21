@@ -1,0 +1,113 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+  }
+  
+  .formContainer {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .heading {
+    color: #333;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-size: 24px;
+    padding-top: 10px;
+  }
+  
+  .container input {
+    width: 100%;
+    padding: 12px; /* Adjusted padding */
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .inputGroup {
+    position: relative; /* Added for absolute positioning of the button */
+  }
+  
+  .passwordInputGroup {
+    display: flex;
+    align-items: center;
+  }
+  
+  .passwordInput {
+    flex-grow: 1; /* Takes up available space */
+    padding-right: 50px; /* Space for the show/hide button */
+  }
+  
+  .showHideButton {
+    cursor: pointer;
+    color: rgb(49, 116, 216); /* Blue color for the text */
+    margin-left: -40px; /* Adjust position inside the input */
+    font-size: 14px; /* Font size for the button */
+    line-height: 40px; /* Center vertically in the input */
+  }
+  
+  .linksContainer {
+    display: flex;
+    justify-content: space-between; /* Aligns Forgot Password and Remember Me on the same line */
+    align-items: center;
+    margin-top: 10px;
+    color: rgb(49, 116, 216);
+  }
+  
+  .forgotLink {
+    color: gray
+  }
+  
+  .rememberMe {
+    display: flex;
+    align-items: center;
+    color: #969494;
+  }
+  
+  .container button {
+    width: 100%; /* Increased button width */
+    padding: 12px 20px; /* Adjusted padding */
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(49, 116, 216);
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .container button:hover {
+    background-color: rgb(40, 104, 201);
+  }
+  
+  .signupText {
+    margin-top: 15px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .signupLink {
+    color: rgb(49, 116, 216);
+  }
+  
+  /* login.module.css */
+  
+  .successMessage {
+    color: black; /* Set text color to black */
+    background-color: #e0f7fa; /* Optional: Set background color for better visibility */
+    padding: 10px; /* Optional: Add some padding */
+    border: 1px solid #b2ebf2; /* Optional: Add a border for better visibility */
+    border-radius: 5px; /* Optional: Add border radius */
+    margin-bottom: 20px; /* Space below the message */
+  }
+  

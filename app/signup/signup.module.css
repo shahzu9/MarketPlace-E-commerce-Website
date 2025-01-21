@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.formContainer {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+    font-weight: bolder;
+}
+
+.inputGroup {
+    margin-bottom: 15px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    color: #333;
+}
+
+.passwordInputGroup {
+    position: relative; /* For positioning the show/hide button */
+}
+
+.showHideButton {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: rgb(49, 116, 216); /* Optional: Make it blue for visibility */
+    font-size: 14px;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(49, 116, 216);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.container button:hover {
+    background-color: rgb(40, 104, 201);
+  }
+
+.signupText {
+    text-align: center;
+    margin-top: 15px;
+    color: #333;
+}
+
+.signupLink {
+    color: rgb(49, 116, 216);
+    text-decoration: none;
+}
